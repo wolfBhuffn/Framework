@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage {
 	WebDriver driver;
-
+	//this is new commit by wolf
 	public LoginPage(WebDriver ldriver) {
 		this.driver = ldriver;
 	}
